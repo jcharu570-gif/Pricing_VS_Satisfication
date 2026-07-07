@@ -44,6 +44,8 @@ Products meeting all four conditions are flagged as critical exceptions.
 - Enables data-driven pricing and inventory decisions.
 
 ---
+## Dashboard Preview
+img<https://github.com/jcharu570-gif/Pricing_VS_Satisfication/blob/main/Screenshot%202026-07-07%20110846.png
 
 ##  Business Recommendations
 
